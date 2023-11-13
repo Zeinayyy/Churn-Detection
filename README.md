@@ -8,3 +8,13 @@ Dalam konteks bisnis dan pemasaran, deteksi churn menjadi sangat penting karena 
 
 Beberapa teknik dan alat yang digunakan dalam deteksi churn melibatkan penggunaan machine learning dan analisis data. Dengan menganalisis data historis dan saat ini, perusahaan dapat membangun model prediktif untuk memperkirakan pelanggan mana yang memiliki kemungkinan tinggi untuk churn. Hal ini memungkinkan perusahaan untuk mengambil tindakan yang sesuai, seperti memberikan penawaran khusus, meningkatkan layanan pelanggan, atau melakukan langkah-langkah lain untuk mempertahankan pelanggan dan mencegah churn.
 
+## Hasil Yang Didapatkan
+![](https://github.com/Zeinayyy/Churn-Detection/blob/main/image/churn.png)
+Gambar diatas adalah Bar Chart dari dataset customer Churn
+![Hasil Training LR](https://github.com/Zeinayyy/Churn-Detection/blob/main/image/logistic_Training.png)
+![Hasil Testing LR](https://github.com/Zeinayyy/Churn-Detection/blob/main/image/regression_testing.png)
+![SVM Training](https://github.com/Zeinayyy/Churn-Detection/blob/main/image/SVM_Training.png)
+![SVM Testing](https://github.com/Zeinayyy/Churn-Detection/blob/main/image/SVM_Testing.png)
+![DT Training](https://github.com/Zeinayyy/Churn-Detection/blob/main/image/DecisionTree_Training.png)
+![DT Testing](https://github.com/Zeinayyy/Churn-Detection/blob/main/image/DecisionTree_Testing.png)
+
